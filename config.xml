@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <widget id="br.com.hacklab.mapasculturais" version="1.0.3" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-  <name>Mapas Culturais</name>
+  <name>Mapas Periferico</name>
   <description>
         Aplicativo da Plataforma Mapas Culturais.
     </description>
-  <author email="contato@hacklab.com.br" href="http://hacklab.com.br/">
-      hacklab/
+  <author email="cmm@casanomeiodomundo.com.br" href="http://casanomeiodomundo.com.br/">
+      casanomeiodomundo/
     </author>
   <content src="index.html"/>
   <access origin="*"/>
